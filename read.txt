@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 git lab
+=======
+third line
+>>>>>>> b1eac03 (c3)
